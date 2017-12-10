@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bioSingleThread/bioSingleThread.iml" filepath="$PROJECT_DIR$/bioSingleThread/bioSingleThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nettyBook.iml" filepath="$PROJECT_DIR$/nettyBook.iml" />
+    </modules>
+  </component>
+</project>
