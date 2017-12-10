@@ -7,6 +7,15 @@
     <groupId>org.heapStark</groupId>
     <artifactId>nettyBook</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <profiles>
+        <profile >
+            <id>development</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+
+        </profile>
+    </profiles>
 
 
 </project>
